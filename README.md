@@ -1,0 +1,2 @@
+# PREDICTION-OF-PHISHING-WEBSITES
+Here dataset has been downloaded from UCI Repository and then a project has been developed in order to predict whether a website may be a phishing website or not Also the performance of 4 ML algorithms have been compared and finally it has been found which top 3 reasons or attributes from the dataset are usually used by hackers in constructing a phishing website.  
